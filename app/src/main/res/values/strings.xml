@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">example3</string>
+    <string name="AddButton">+</string>
+    <string name="BalanceText">Balance</string>
+    <string name="MinusButton">-</string>
+    <string name="ResetButton">Reset</string>
+    <string name="default_notification_channel_id" />
+    <string name="default_notification_channel_name" />
+</resources>
